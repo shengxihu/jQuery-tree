@@ -1,0 +1,19 @@
+ul{
+	list-style-image: url(images/item_files.svg);
+	list-style-type:square;
+}
+.files{
+	list-style-image: url(images/close_files.svg);
+	list-style-type:square;
+}
+.close_files{
+	list-style-image: url(images/close_files.svg);
+	list-style-type:square;
+}
+.open_files{
+	list-style-image: url(images/open_files.svg);
+	list-style-type:square;
+}
+.inner_ul{
+	display: none;
+}
